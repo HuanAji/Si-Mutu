@@ -13,7 +13,7 @@ Struktur yang Digunakan yaitu :
 
 Cara Menjalankan Project
 
-1. Clone Repo Ini
+1. Clone Repositori Ini
 
     buka git bash terminal kemudian jalankan
       
@@ -23,7 +23,8 @@ Cara Menjalankan Project
 3. Open Terminal di editor code
 4. Jika folder sudah mengarah ke folder terakhir seperti di bawah ini
 ![image](https://github.com/user-attachments/assets/dbce9d04-4acd-4873-89ef-d86c8b10ba3c)
-
+user@sksksk21 MINGW64 /c/SI-MUTU/simutu (main)
+$
     jika ingin melihat truktur folder bisa di ketikkan perintah :
     
     $ dir
