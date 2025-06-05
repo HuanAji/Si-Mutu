@@ -36,9 +36,7 @@ Disarankan versi v16.x atau yang terbaru
 Jika folder sudah mengarah ke folder terakhir seperti di bawah ini
 ![image](https://github.com/user-attachments/assets/dbce9d04-4acd-4873-89ef-d86c8b10ba3c)
 
-![image](https://github.com/user-attachments/assets/1be9bc55-563b-409b-b51f-85c8fc03517f)
-
-2. Install Node.js (jika belum ada)
+7. Install Node.js (jika belum ada)
 
 Unduh dan install dari: https://nodejs.org/
 
