@@ -16,17 +16,17 @@ Cara Menjalankan Project
 1. Clone Repo Ini
 
     buka git bash terminal kemudian jalankan
-  
-  $ git clone https://github.com/HuanAji/Si-Mutu
+      
+      $ git clone https://github.com/HuanAji/Si-Mutu
 
 2. Kemudian buka project nya ke VSCODE atau editor code lain
 3. Open Terminal di editor code
 4. Jika folder sudah mengarah ke folder terakhir seperti di bawah ini
 ![image](https://github.com/user-attachments/assets/dbce9d04-4acd-4873-89ef-d86c8b10ba3c)
 
-jika ingin melihat truktur folder bisa di ketikkan perintah :
-
-$ dir
+    jika ingin melihat truktur folder bisa di ketikkan perintah :
+    
+    $ dir
 
 6. Install Node.js (jika belum ada)
     Unduh dan install dari: https://nodejs.org/
@@ -62,33 +62,3 @@ $ dir
     ![image](https://github.com/user-attachments/assets/2245b285-4af1-44c9-9696-6b0f819fe1ad)
 
 
-<< Konfigurasi Tambahan >>
-
-✅ Tailwind Config (tailwind.config.js)
-
-Pastikan file ini sudah berisi konfigurasi untuk Flowbite:
-
-module.exports = {
-  content: [
-    "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
-    "node_modules/flowbite-react/**/*.{js,jsx,ts,tsx}"
-  ],
-  theme: {
-    extend: {},
-  },
-  plugins: [
-    require('flowbite/plugin')
-  ],
-}
-
-✅ File .env (Jika Dibutuhkan)
-
-Jika aplikasi ini menggunakan .env, pastikan kamu menyalin dari .env.example:
-
-cp .env.example .env
-
-Lalu sesuaikan isi variabelnya.
-
-
----
