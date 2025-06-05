@@ -17,7 +17,7 @@ Cara Menjalankan Project
 
     buka git bash terminal kemudian jalankan
       
-      $ git clone https://github.com/HuanAji/Si-Mutu
+          $ git clone https://github.com/HuanAji/Si-Mutu
 
 2. Kemudian buka project nya ke VSCODE atau editor code lain
 3. Open Terminal di editor code
@@ -28,7 +28,7 @@ Cara Menjalankan Project
 
 5. Jika ingin melihat truktur folder bisa di ketikkan perintah :
     
-    $ dir
+        $ dir
 
 6. Install Node.js (jika belum ada)
     Unduh dan install dari: https://nodejs.org/
@@ -47,7 +47,8 @@ Cara Menjalankan Project
        $ npm install
 
 5. Jalankan Project
-      $ npm run dev
+
+        $ npm run dev
 
     Kemudian jika sudah seperti di bawah ini 
     ![image](https://github.com/user-attachments/assets/9a4f01b1-df30-4a8c-a61c-1a29313f4c42)
