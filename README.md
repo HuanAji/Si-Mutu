@@ -15,43 +15,43 @@ Cara Menjalankan Project
 
 1. Clone Repo Ini
 
-buka git bash terminal kemudian jalankan
-git clone https://github.com/HuanAji/Si-Mutu
+  buka git bash terminal kemudian jalankan
+  $ git clone https://github.com/HuanAji/Si-Mutu
 
 2. Kemudian buka project nya ke VSCODE atau editor code lain
 3. Open Terminal di editor code
 4. Jika folder sudah mengarah ke folder terakhir seperti di bawah ini
 ![image](https://github.com/user-attachments/assets/dbce9d04-4acd-4873-89ef-d86c8b10ba3c)
 jika ingin melihat truktur folder bisa di ketikkan perintah :
-$ dir
+  $ dir
 
-5. Install Node.js (jika belum ada)
+6. Install Node.js (jika belum ada)
 
-Unduh dan install dari: https://nodejs.org/
+  Unduh dan install dari: https://nodejs.org/
 
-Disarankan versi v16.x atau yang terbaru
+  Disarankan versi v16.x atau yang terbaru
 
 6. Open Terminal pada VSCODE atau editor code lain 
 
-Jika folder sudah mengarah ke folder terakhir seperti di bawah ini
-![image](https://github.com/user-attachments/assets/dbce9d04-4acd-4873-89ef-d86c8b10ba3c)
+  Jika folder sudah mengarah ke folder terakhir seperti di bawah ini
+  ![image](https://github.com/user-attachments/assets/dbce9d04-4acd-4873-89ef-d86c8b10ba3c)
 
 7. Install Node.js (jika belum ada)
 
-Unduh dan install dari: https://nodejs.org/
+  Unduh dan install dari: https://nodejs.org/
 
-Disarankan versi v16.x atau yang terbaru
-$ npm run dev
-$ cd nama-repo
-Contoh --> cd simutu
+  Disarankan versi v16.x atau yang terbaru
+  $ npm run dev
+  $ cd nama-repo
+  Contoh --> cd simutu
 
 
 3. Install Dependency
-//ketikkan perintah di bawah ini ke Terminal Git Bash 
-npm install
+  //ketikkan perintah di bawah ini ke Terminal Git Bash 
+  $ npm install
 
 5. Jalankan Project
-npm run dev
+  $ npm run dev
 
 Kemudian jika sudah seperti di bawah ini 
 ![image](https://github.com/user-attachments/assets/9a4f01b1-df30-4a8c-a61c-1a29313f4c42)
