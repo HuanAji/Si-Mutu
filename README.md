@@ -2,7 +2,7 @@
 
 Ini adalah project React.js yang dibangun menggunakan Vite dan Tailwind CSS, serta menggunakan komponen UI dari Flowbite.
 
-Struktur yang Digunakan :
+Struktur yang Digunakan yaitu :
 
 - React.js
 - Vite
@@ -18,7 +18,6 @@ Cara Menjalankan Project
 buka git bash terminal kemudian jalankan
 git clone https://github.com/HuanAji/Si-Mutu
 
-
 cd nama-repo
 example : cd simutu
 
@@ -29,14 +28,14 @@ Unduh dan install dari: https://nodejs.org/
 Disarankan versi v16.x atau yang terbaru
 
 3. Install Dependency
-
+//ketikkan perintah di bawah ini ke Terminal Git Bash 
 npm install
 
-4. Jalankan Project
-
+5. Jalankan Project
 npm run dev
 
 Lalu buka browser ke: http://localhost:5173
+![image](https://github.com/user-attachments/assets/144cabe8-3686-4962-848d-7ffc1b856457)
 
 
 ---
