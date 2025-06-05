@@ -15,7 +15,8 @@ Cara Menjalankan Project
 
 1. Clone Repo Ini
 
-  buka git bash terminal kemudian jalankan
+    buka git bash terminal kemudian jalankan
+  
   $ git clone https://github.com/HuanAji/Si-Mutu
 
 2. Kemudian buka project nya ke VSCODE atau editor code lain
@@ -26,24 +27,23 @@ jika ingin melihat truktur folder bisa di ketikkan perintah :
   $ dir
 
 6. Install Node.js (jika belum ada)
-
-  Unduh dan install dari: https://nodejs.org/
-
-  Disarankan versi v16.x atau yang terbaru
+    Unduh dan install dari: https://nodejs.org/
+    Disarankan versi v16.x atau yang terbaru
 
 6. Open Terminal pada VSCODE atau editor code lain 
 
-  Jika folder sudah mengarah ke folder terakhir seperti di bawah ini
-  ![image](https://github.com/user-attachments/assets/dbce9d04-4acd-4873-89ef-d86c8b10ba3c)
+      Jika folder sudah mengarah ke folder terakhir seperti di bawah ini
 
-7. Install Node.js (jika belum ada)
+     ![image](https://github.com/user-attachments/assets/dbce9d04-4acd-4873-89ef-d86c8b10ba3c)
 
-  Unduh dan install dari: https://nodejs.org/
+8. Install Node.js (jika belum ada)
 
-  Disarankan versi v16.x atau yang terbaru
-  $ npm run dev
-  $ cd nama-repo
-  Contoh --> cd simutu
+      Unduh dan install dari: https://nodejs.org/
+
+      Disarankan versi v16.x atau yang terbaru
+      $ npm run dev
+      $ cd nama-repo
+      Contoh --> cd simutu
 
 
 3. Install Dependency
