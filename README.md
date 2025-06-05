@@ -25,7 +25,8 @@ Cara Menjalankan Project
 ![image](https://github.com/user-attachments/assets/dbce9d04-4acd-4873-89ef-d86c8b10ba3c)
 
    user@sksksk21 MINGW64 /c/SI-MUTU/simutu (main)
-    jika ingin melihat truktur folder bisa di ketikkan perintah :
+
+5. Jika ingin melihat truktur folder bisa di ketikkan perintah :
     
     $ dir
 
@@ -41,8 +42,9 @@ Cara Menjalankan Project
 
 
 3. Install Dependency
-      //ketikkan perintah di bawah ini ke Terminal Git Bash 
-      $ npm install
+      //ketikkan perintah di bawah ini ke Terminal Git Bash
+
+       $ npm install
 
 5. Jalankan Project
       $ npm run dev
